@@ -4,7 +4,7 @@
 
 # 项目结构
 
-![image](https://user-images.githubusercontent.com/31432203/176584234-7f626508-ee5f-43dc-8693-4b881d871a46.png)
+![image](https://user-images.githubusercontent.com/31432203/176586716-e4967280-6269-4fee-85f9-5a19f92a06ad.png)
 
 1. core目录
 
@@ -49,3 +49,8 @@
   -  popSize，种群数量
   -  maxIterNum，最大迭代次数
   -  mutationRate，染色体变异的概率
+
+# 关于调试
+
+BaseGeneticAlgoCore和BaseChromsomeCore都有debug字段，如果需要查看运行过程信息，可以设置为true。
+
