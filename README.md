@@ -47,3 +47,6 @@
 
 BaseGeneticAlgoCore和BaseChromsomeCore都有debug字段，如果需要查看运行过程信息，可以设置为true。
 
+# 后记
+
+代码有什么问题和不足之处，欢迎大家指正。
