@@ -13,7 +13,7 @@
    - GeneticAlgoCore接口，算法核心逻辑接口
    - ChromsomeCore接口，染色体核心接口  
    - BaseGeneticAlgoCore抽象类，算法核心逻辑实现类
-   - BaseChromsomeCore，染色体核心实现类 
+   - BaseChromsomeCore抽象类，染色体核心实现类 
    
 2. task目录
    
