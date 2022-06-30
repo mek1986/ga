@@ -10,25 +10,18 @@
 
    算法核心实现目录
    
-   - GeneticAlgoCore接口
-     算法核心逻辑接口
-   - ChromsomeCore接口
-     染色体核心接口  
-   - BaseGeneticAlgoCore抽象类
-     算法核心逻辑实现类
-   - BaseChromsomeCore
-     染色体核心实现类 
+   - GeneticAlgoCore接口，算法核心逻辑接口
+   - ChromsomeCore接口，染色体核心接口  
+   - BaseGeneticAlgoCore抽象类，算法核心逻辑实现类
+   - BaseChromsomeCore，染色体核心实现类 
    
 2. task目录
    
    测试用例目录
    
-   - knapsack01目录
-     01背包问题
-   - lc091目录
-     力扣编号091问题
-   - nqueen目录
-     N皇后问题
+   - knapsack01目录，01背包问题
+   - lc091目录，力扣编号091问题
+   - nqueen目录，N皇后问题
 
 3. APP类
 
